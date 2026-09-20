@@ -1,0 +1,8 @@
+{
+  "name": "Remix Golden Aura Nail \u0026 Beauty",
+  "description": "Golden Aura Nail \u0026 Beauty offers nail and beauty services in Batu Maung, Penang. Explore our services, gallery and appointment options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
